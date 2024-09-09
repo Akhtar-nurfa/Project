@@ -93,7 +93,7 @@ body {
   font-weight: 600;
   margin-bottom: 2px;
   color: #a3d7da;
-  text-shadow: 0 0 10px rgba(76, 104, 215, 0.5), 0 0 20px rgba(107, 91, 149, 0.5);
+  text-shadow: 0 0 10px rgba(76, 104, 215, 0.5), 0 0 20px rgba(234, 255, 255, 0.5);
 }
 
 #background-video {
@@ -106,4 +106,22 @@ body {
   top: 0;
   bottom: 0;
   z-index: -1;
+}
+
+.id-card .info h5 {
+  font-size: 18px;
+  margin-top: 2px;
+  color: #a3d7da;
+}
+
+.id-card .info h6 {
+  font-size: 18px;
+  margin-top: 2px;
+  color: #a3d7da;
+}
+
+.id-card .info h7 {
+  font-size: 18px;
+  margin-top: 2px;
+  color: #a3d7da;
 }
