@@ -88,7 +88,7 @@ body {
   color: #4c68d7;
 }
 
-.id-card .info p2{
+.id-card .info marquee{
   font-size: 30px;
   font-weight: 600;
   margin-bottom: 2px;
@@ -108,13 +108,13 @@ body {
   z-index: -1;
 }
 
-.id-card .info h5 {
+.id-card .info h6 {
   font-size: 18px;
   margin-top: 2px;
   color: #a3d7da;
 }
 
-.id-card .info h6 {
+.id-card .info h5 {
   font-size: 18px;
   margin-top: 2px;
   color: #a3d7da;
